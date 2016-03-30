@@ -1,0 +1,1186 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"get_template_di",
+				"get_template_directory_uri"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"ma",
+				"margin-left"
+			],
+			[
+				"colo",
+				"color"
+			],
+			[
+				"fa-fa",
+				"fa-facebook	fa-facebook"
+			],
+			[
+				"chec",
+				"checked"
+			],
+			[
+				"im",
+				"important"
+			],
+			[
+				"bac",
+				"background-position"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"z-",
+				"z-index"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"list-s",
+				"list-style"
+			],
+			[
+				"hre",
+				"href	Attr"
+			],
+			[
+				"temp",
+				"template"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"listy",
+				"list-style"
+			],
+			[
+				"inli",
+				"inline-block"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"re",
+				"relative"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"prin",
+				"print_r〔function〕"
+			],
+			[
+				"print",
+				"printf"
+			],
+			[
+				"get_po",
+				"get_posts"
+			],
+			[
+				"pri",
+				"print_r"
+			],
+			[
+				"cate",
+				"category"
+			],
+			[
+				"catego",
+				"categories"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"the_pre",
+				"the_permalink"
+			],
+			[
+				"bre",
+				"break-word"
+			],
+			[
+				"prev",
+				"prev_post_term"
+			],
+			[
+				"title",
+				"the_title"
+			],
+			[
+				"next",
+				"next_post_term"
+			],
+			[
+				"padding",
+				"padding-top"
+			],
+			[
+				"functi",
+				"function_exists"
+			],
+			[
+				"function",
+				"function_exists"
+			],
+			[
+				"si",
+				"size"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"border",
+				"border-5"
+			],
+			[
+				"color",
+				"border-color"
+			],
+			[
+				"al",
+				"alt	Attr"
+			],
+			[
+				"op",
+				"option	Tag"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "header.php",
+			"settings":
+			{
+				"buffer_size": 2262,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "footer.php",
+			"settings":
+			{
+				"buffer_size": 403,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "functions.php",
+			"settings":
+			{
+				"buffer_size": 371,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "page.php",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"color",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"terminal",
+				"Preferences: Terminal Key Bindings – Default"
+			],
+			[
+				"colo",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"pakage li",
+				"Package Control: List Packages"
+			],
+			[
+				"setsyntax:ht",
+				"Set Syntax: HTML"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Install",
+				"Package Control: Install Package"
+			],
+			[
+				"install package",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 528.0
+	},
+	"console":
+	{
+		"height": 321.0,
+		"history":
+		[
+			"sublime.log_commands(True)",
+			"git status",
+			"git stauts",
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib.request,os,hashlib; h = ’7183a2d3e96f11eeadd761d777e62404′ + ‘e330c659d4bb41d3bdf022e94cab3cd0′; pf = ‘Package Control.sublime-package’; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( ‘http://sublime.wbond.net/’ + pf.replace(‘ ‘, ‘%20′)).read(); dh = hashlib.sha256(by).hexdigest(); print(‘Error validating download (got %s instead of %s), please try manual install’ % (dh, h)) if dh != h else open(os.path.join( ipp, pf), ‘wb’ ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/Work/projects/wordpress/wp-learning/wp-content/themes/learningwp",
+		"/D/Work/projects/wordpress/wp-learning/wp-content/themes/learningwp/css"
+	],
+	"file_history":
+	[
+		"/D/Setup/Programme Tool/Sublime Text Build 3083 x64/Data/Packages/User/Default (Windows).sublime-keymap",
+		"/D/Setup/Programme Tool/Sublime Text Build 3083 x64/Data/Packages/User/Preferences.sublime-settings",
+		"/D/Work/projects/wordpress/wp-learning/wp-content/themes/learningwp/style.css",
+		"/D/Work/projects/wordpress/wp-learning/wp-content/themes/learningwp/header.php",
+		"/D/Work/projects/wordpress/wp-learning/wp-content/themes/learningwp/footer.php",
+		"/D/Work/projects/wordpress/wp-learning/wp-content/themes/learningwp/custom.js",
+		"/D/Work/projects/archives/VC/moomoo/html/js/custom.js",
+		"/D/Work/projects/archives/VC/moomoo/html/scss/components/_predefined.scss",
+		"/D/Work/projects/archives/VC/moomoo/html/css/components/header_page.css",
+		"/D/Work/projects/archives/VC/moomoo/html/css/style.css",
+		"/D/Work/projects/html/quiz/scss/_bootstrap.scss",
+		"/D/Work/Projects/wordpress/wp-content/themes/snake/scss/vendor/bootstrap/_variables.scss",
+		"/D/Work/Projects/thelittlegym/css/style.css",
+		"/C/Users/TRANANHTU/Desktop/thelittlegym/effect.html",
+		"/C/Users/TRANANHTU/Desktop/thelittlegym/scss/_variables.scss",
+		"/C/Users/TRANANHTU/Desktop/thelittlegym/scss/_box-shadow.scss",
+		"/C/Users/TRANANHTU/Desktop/thelittlegym/scss/_forms.scss",
+		"/C/Users/TRANANHTU/Desktop/thelittlegym/scss/_icons.scss",
+		"/C/Users/TRANANHTU/Desktop/thelittlegym/dang_ky.html",
+		"/C/Users/TRANANHTU/Desktop/thelittlegym/scss/style.scss",
+		"/C/Users/TRANANHTU/Desktop/thelittlegym/scss/_ie8.scss",
+		"/D/Work/Projects/wordpress/wp-content/themes/snake/scss/vendor/bootstrap/_mixins.scss",
+		"/C/Users/TRANANHTU/Desktop/thelittlegym/css/style.css",
+		"/D/Setup/Programme Tool/Sublime Text Build 3083 x64/Data/Packages/User/Terminal.sublime-settings",
+		"/D/Work/Projects/wordpress/wp-content/themes/snake/scss/pages/_faq.scss",
+		"/D/Work/Projects/wordpress/wp-content/themes/snake/templates/contact.php",
+		"/D/Work/Projects/wordpress/wp-content/themes/snake/inc/head-main.php",
+		"/D/Work/Projects/wordpress/wp-content/themes/snake/archive.php",
+		"/D/Work/Projects/wordpress/wp-content/themes/snake/templates/full-width.php",
+		"/D/Work/Projects/wordpress/wp-content/themes/snake/scss/pages/_full-width.scss",
+		"/D/Work/Projects/wordpress/wp-content/themes/snake/functions.php",
+		"/D/Work/Projects/wordpress/wp-content/themes/snake/header.php",
+		"/D/Work/Projects/wordpress/wp-content/themes/snake/scss/_basic-structure.scss",
+		"/D/Work/Projects/wordpress/wp-content/themes/snake/scss/shortcodes/_buttons.scss",
+		"/D/Work/Projects/wordpress/wp-content/themes/snake/scss/_mixin.scss",
+		"/D/Work/Projects/wordpress/wp-content/themes/snake/js/custom.js",
+		"/C/Users/Tran/Desktop/index.php",
+		"/D/Work/Projects/wordpress/wp-content/themes/snake/page.php",
+		"/D/Work/Projects/wordpress/wp-content/themes/snake/scss/_pages.scss",
+		"/D/Work/Projects/wordpress/wp-content/themes/snake/scss/pages/_contact.scss",
+		"/D/Work/Projects/wordpress/wp-content/themes/snake/scss/pages/_contact-form.scss",
+		"/D/Work/Projects/wordpress/wp-content/themes/snake/index.php",
+		"/D/Work/Projects/wordpress/wp-content/themes/snake/scss/pages/_blog.scss",
+		"/D/Work/Projects/wordpress/wp-content/themes/snake/scss/widgets/_widget-default.scss",
+		"/D/Work/Projects/wordpress/wp-content/themes/snake/scss/widgets/_testimonial-1-widget.scss",
+		"/D/Work/Projects/wordpress/wp-content/themes/snake/inc/most-popular-posts.php",
+		"/D/Work/Projects/wordpress/wp-content/themes/snake/scss/widgets/_mp-post-widget.scss",
+		"/D/Work/Projects/wordpress/wp-content/themes/snake/single.php",
+		"/C/Users/Tran/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/D/Work/Projects/wordpress/wp-content/themes/snake/scss/_widgets.scss",
+		"/D/Work/Projects/wordpress/wp-content/themes/snake/css/widgets/_widget-default.css",
+		"/D/Work/Projects/wordpress/wp-content/themes/snake/style.scss",
+		"/D/Work/Projects/wordpress/wp-content/themes/snake/scss/_vendor.scss",
+		"/D/Work/Projects/wordpress/wp-content/themes/snake/scss/pages/_404-page.scss",
+		"/D/Work/Projects/wordpress/wp-content/themes/snake/inc/category.php",
+		"/D/Work/Projects/wordpress/wp-content/themes/snake/scss/vendor/_perfect-scrollbar.scss",
+		"/D/Work/Projects/wordpress/wp-content/themes/snake/scss/_ie.scss",
+		"/D/Work/Projects/wordpress/wp-content/themes/snake/404.php",
+		"/D/Work/Projects/wordpress/wp-content/themes/snake/scss/ie.scss",
+		"/D/Work/Projects/wordpress/wp-content/themes/snake/scss/widgets/_blog-category-widget.scss",
+		"/D/Work/Projects/wordpress/wp-content/themes/snake/scss/pages/_single-blog.scss",
+		"/D/Work/Projects/wordpress/wp-content/themes/snake/scss/_variables.scss",
+		"/D/Work/Projects/wordpress/wp-content/themes/snake/author-bio.php",
+		"/D/Work/Projects/wordpress/wp-content/themes/snake/inc/related-posts.php",
+		"/D/Work/Projects/wordpress/wp-content/themes/snake/scss/widgets/_widget-common.scss",
+		"/D/Work/Projects/wordpress/wp-content/themes/snake/inc/featured.php",
+		"/D/Work/Projects/wordpress/wp-content/themes/snake/scss/pages/_blog-content-default.scss",
+		"/D/Work/Projects/wordpress/wp-content/themes/snake/content.php",
+		"/D/Work/Projects/wordpress/wp-content/themes/snake/scss/components/_comment-list.scss",
+		"/D/Work/Projects/wordpress/wp-content/themes/snake/scss/components/_author-box.scss",
+		"/D/Work/Projects/wordpress/wp-content/themes/snake/author.php",
+		"/D/Work/Projects/wordpress/wp-content/themes/snake/scss/_header.scss",
+		"/D/Work/Projects/wordpress/wp-content/themes/snake/scss/pages/_sub-page.scss",
+		"/D/Work/Projects/wordpress/wp-content/themes/snake/scss/_components.scss",
+		"/C/Users/Tran/AppData/Roaming/Sublime Text 3/Packages/Terminal/Default (Windows).sublime-keymap",
+		"/C/Users/Tran/AppData/Roaming/Sublime Text 3/Packages/Terminal/Terminal.sublime-settings",
+		"/C/Users/Tran/AppData/Roaming/Sublime Text 3/Packages/User/Terminal.sublime-settings",
+		"/D/Work/TuTAData/KOPASOFT/Verado/HTML/single-blog.html",
+		"/D/Work/Projects/wordpress/wp-content/themes/snake/scss/components/_purchase-box.scss",
+		"/D/Work/Projects/wordpress/wp-content/themes/snake/scss/_extend.scss",
+		"/D/Work/Projects/wordpress/wp-content/themes/snake/scss/widgets/_top-product-list-2-widget.scss",
+		"/D/Work/Projects/wordpress/wp-content/themes/snake/scss/widgets/_widget-top-slide.scss",
+		"/D/Work/Projects/wordpress/wp-content/themes/snake/scss/widgets/_testimonial-3-widget.scss",
+		"/D/Work/Projects/wordpress/wp-content/themes/snake/scss/widgets/_best-seller-widget.scss",
+		"/D/Work/Projects/wordpress/wp-content/themes/snake/scss/widgets/_product-categories-widget.scss",
+		"/D/Work/Projects/wordpress/wp-content/themes/snake/scss/widgets/_latest-blogs-widget.scss",
+		"/D/Work/Projects/wordpress/wp-content/themes/snake/scss/widgets/_top-product-list-widget.scss",
+		"/D/Work/Projects/wordpress/wp-content/themes/snake/scss/widgets/_newsletter-1-widget.scss",
+		"/D/Work/Projects/wordpress/wp-content/themes/snake/scss/extend/_latest-adv.scss",
+		"/D/Work/Projects/wordpress/wp-content/themes/snake/scss/extend/_template-1-widget.scss",
+		"/D/Work/Projects/wordpress/wp-content/themes/snake/scss/widgets/_social-widget.scss",
+		"/D/Work/Projects/wordpress/wp-content/themes/snake/scss/widgets/_product-detail-2-widget.scss",
+		"/D/Work/Projects/wordpress/wp-content/themes/snake/scss/widgets/_product-detail-1-widget.scss",
+		"/D/Work/Projects/wordpress/wp-content/themes/snake/scss/widgets/_mpbrands-2-widget.scss",
+		"/D/Work/Projects/wordpress/wp-content/themes/snake/scss/widgets/_testimonial-2-widget.scss",
+		"/D/Work/Projects/wordpress/wp-content/themes/snake/scss/widgets/_on-shoping-widget.scss",
+		"/D/Work/Projects/wordpress/wp-content/themes/snake/scss/widgets/_new-products-widget.scss",
+		"/D/Work/Projects/wordpress/wp-content/themes/snake/scss/widgets/_featured-products-1-widget.scss",
+		"/D/Work/Projects/wordpress/wp-content/themes/snake/scss/widgets/_product-tab-widget.scss",
+		"/D/Work/Projects/wordpress/wp-content/themes/snake/scss/widgets/_search-car-widget.scss",
+		"/D/Work/Projects/wordpress/wp-content/themes/snake/scss/widgets/_inquire-vehicle-widget.scss",
+		"/D/Work/Projects/wordpress/wp-content/themes/snake/scss/widgets/_shortcode-widget.scss",
+		"/D/Work/Projects/wordpress/wp-content/themes/snake/scss/widgets/_featured-list-widget.scss",
+		"/D/Work/Projects/wordpress/wp-content/themes/snake/scss/components/_find-cars.scss",
+		"/D/Work/Projects/wordpress/wp-content/themes/snake/scss/widgets/_submit-vehicle-widget.scss",
+		"/D/Work/Projects/wordpress/wp-content/themes/snake/scss/widgets/_latest-adv-1-widget.scss",
+		"/D/Work/Projects/wordpress/wp-content/themes/snake/scss/widgets/_latest-adv-2-widget.scss",
+		"/D/Work/Projects/wordpress/wp-content/themes/snake/scss/widgets/_latest-adv-widget.scss",
+		"/D/Work/Projects/wordpress/wp-content/themes/snake/scss/widgets/_mpbrands-4-widget.scss",
+		"/D/Work/Projects/wordpress/wp-content/themes/snake/scss/widgets/_mpbrands-widget.scss",
+		"/D/Work/Projects/wordpress/wp-content/themes/snake/scss/widgets/_mpbrands-3-widget.scss",
+		"/D/Work/Projects/wordpress/wp-content/themes/snake/scss/widgets/_featured-dealer-2-widget.scss",
+		"/D/Work/Projects/wordpress/wp-content/themes/snake/scss/widgets/_featured-dealer-1-widget.scss",
+		"/D/Work/Projects/wordpress/wp-content/themes/snake/scss/widgets/_ootweek-widget.scss",
+		"/D/Work/Projects/wordpress/wp-content/themes/snake/scss/widgets/_tab-1-widget.scss",
+		"/D/Work/Projects/wordpress/wp-content/themes/snake/scss/widgets/_newsletter-widget.scss",
+		"/D/Work/Projects/wordpress/wp-content/themes/snake/scss/widgets/_service-widget.scss",
+		"/D/Work/Projects/wordpress/wp-content/themes/snake/scss/_layout.scss",
+		"/D/Work/Projects/wordpress/wp-content/themes/snake/scss/components/_top-slide-2.scss",
+		"/D/Work/Projects/wordpress/wp-content/themes/snake/css/_components.css",
+		"/D/Work/Projects/wordpress/wp-content/themes/snake/scss/components/_top-slide.scss",
+		"/D/Work/Projects/wordpress/wp-content/themes/snake/scss/components/_product-list-1-o.scss",
+		"/D/Work/Projects/wordpress/wp-content/themes/snake/scss/components/_product-list-2.scss",
+		"/D/Work/Projects/wordpress/wp-content/themes/snake/scss/shortcodes/_tabs.scss",
+		"/D/Work/Projects/wordpress/wp-content/themes/snake/scss/_product-list-1.scss",
+		"/D/Work/Projects/wordpress/wp-content/themes/snake/scss/pages/_about-us.scss",
+		"/D/Work/Projects/wordpress/wp-content/themes/snake/scss/pages/_single-car.scss",
+		"/D/Work/Projects/wordpress/wp-content/themes/snake/scss/pages/_shop.scss"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			"D:\\Work\\Projects\\thelittlegym\\scss",
+			"D:\\Work\\Projects\\wordpress\\wp-content\\themes\\snake\\scss",
+			"",
+			"<open folders>"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"wp_enqueue_style",
+			"icon",
+			"checkAnswer",
+			".checkbox-wrap",
+			"$screen-lg:",
+			"$screen-lg",
+			"md",
+			"brand",
+			"$screen-lg",
+			"form-group form-group-lg",
+			"form",
+			"radius",
+			"E51886",
+			"container-fixed",
+			".container",
+			"#kp-map",
+			"form-control-wrap",
+			"kp-map",
+			"map",
+			"kopa",
+			".sub-page-slide",
+			"awesome",
+			"catlist-404",
+			"right",
+			"ps-container",
+			".other-article",
+			"transition",
+			"related-article",
+			".content-title",
+			".tuta-blog-category-widget",
+			".tag-box",
+			"tag",
+			"sub-page-slide",
+			"slide-wrap",
+			"page-slide-wrap",
+			".sub-page-slide-wrap",
+			"sub-page-slide",
+			".sub-page-slide",
+			".main-head",
+			".other-article",
+			"function",
+			"if",
+			"footer",
+			">\n",
+			"is_single",
+			"function_exists",
+			"tuta_link_pages",
+			"\n		",
+			"div",
+			"class",
+			"wrapper",
+			"\n        ",
+			"wrapper",
+			"href",
+			".blog-content",
+			"%tuta-service",
+			"tuta-service",
+			"$height-hexagon-1",
+			"$",
+			"**",
+			"FAQ",
+			"button",
+			"@import 'scss/ie'; ",
+			"widget",
+			"$(",
+			"accor",
+			"'js",
+			"'/js",
+			"CORE",
+			"THEME_URL",
+			"div",
+			"<footer id=\"page-footer\">         <div class=\"top-footer\">             <div class=\"container\">                 <div class=\"col-footer\">                     <h4 class=\"box-title-cate-1\"><a href=\"#\">Đẹp</a></h4>                     <ul>                         <li><a href=\"#\">Sức khỏe phụ nữ</a> </li>                         <li><a href=\"#\">Sức khỏe đàn ông</a> </li>                         <li><a href=\"#\">Sức khỏe giới tính</a> </li>                         <li><a href=\"#\">Bệnh xã hội</a> </li>                         <li><a href=\"#\">Nước hoa mỹ phẩm</a> </li>                     </ul>                 </div>                 <div class=\"col-footer\">                     <h4 class=\"box-title-cate-2\"><a href=\"#\">Sức khỏe</a></h4>                     <ul>                         <li><a href=\"#\">Sức khỏe phụ nữ</a> </li>                         <li><a href=\"#\">Sức khỏe đàn ông</a> </li>                         <li><a href=\"#\">Sức khỏe giới tính</a> </li>                         <li><a href=\"#\">Bệnh xã hội</a> </li>                         <li><a href=\"#\">Nước hoa mỹ phẩm</a> </li>                     </ul>                 </div>                 <div class=\"col-footer\">                     <h4 class=\"box-title-cate-3\"><a href=\"#\">Mẹ & bé</a></h4>                     <ul>                         <li><a href=\"#\">Sức khỏe phụ nữ</a> </li>                         <li><a href=\"#\">Sức khỏe đàn ông</a> </li>                         <li><a href=\"#\">Sức khỏe giới tính</a> </li>                         <li><a href=\"#\">Bệnh xã hội</a> </li>                         <li><a href=\"#\">Nước hoa mỹ phẩm</a> </li>                     </ul>                 </div>                 <div class=\"col-footer\">                     <h4 class=\"box-title-cate-4\"><a href=\"#\">Công nghệ</a></h4>                     <ul>                         <li><a href=\"#\">Sức khỏe phụ nữ</a> </li>                         <li><a href=\"#\">Sức khỏe đàn ông</a> </li>                         <li><a href=\"#\">Sức khỏe giới tính</a> </li>                         <li><a href=\"#\">Bệnh xã hội</a> </li>                         <li><a href=\"#\">Nước hoa mỹ phẩm</a> </li>                     </ul>                 </div>                 <div class=\"col-footer\">                     <h4 class=\"box-title-cate-5\"><a href=\"#\">Xe</a></h4>                     <ul>                         <li><a href=\"#\">Sức khỏe phụ nữ</a> </li>                         <li><a href=\"#\">Sức khỏe đàn ông</a> </li>                         <li><a href=\"#\">Sức khỏe giới tính</a> </li>                         <li><a href=\"#\">Bệnh xã hội</a> </li>                         <li><a href=\"#\">Nước hoa mỹ phẩm</a> </li>                     </ul>                 </div>                 <div class=\"col-footer\">                     <ul class=\"more-cate\">                         <li><a class=\"box-title-cate-10\" href=\"#\">Du lịch</a></li>                         <li><a class=\"box-title-cate-9\" href=\"#\">Pháp luật</a></li>                         <li><a class=\"box-title-cate-7\" href=\"#\">Tình cảm</a></li>                         <li><a class=\"box-title-cate-11\" href=\"#\">Kiếm tiền online</a></li>                         <li><a class=\"box-title-cate-12\" href=\"#\">Nhiếp ảnh</a></li>                     </ul>                 </div>             </div>         </div>         <div class=\"footer container\">             <div class=\"row\">                 <div class=\"col-5\">                     <a href=\"#\" class=\"logo\"></a>                     <p>© 2014 ADR Inc. All rights reserved.</p>                     <p><a href=\"#\">Privacy Policy  </a> <a href=\"#\">Terms of Use </a> <a href=\"#\">Mobile User Agreement</a> </p>                 </div>                 <div class=\"col-5 apps\">                     <h4>Adayroi Apps</h4>                     <a href=\"#\" class=\"android\">Android</a>                     <a href=\"#\" class=\"iPhone\">iPhone</a>                     <a href=\"#\" class=\"iPad\">iPad</a>                     <div class=\"input-group\">                         <input type=\"text\" class=\"form-control\" placeholder=\"Địa chỉ email\" aria-describedby=\"basic-addon2\">                         <span class=\"input-group-addon\" id=\"basic-addon2\">NHẬN BẢN TIN</span>                     </div>                 </div>                 <div class=\"col-5 solution\">                     <div class=\"icon-solution\">                         <h4>Follow Adayroi.net</h4>                         <ul>                             <li><a href=\"#\" class=\"face\"></a></li>                             <li><a href=\"#\" class=\"youtube\"></a></li>                             <li><a href=\"#\" class=\"tw\"></a></li>                             <li><a href=\"#\" class=\"google\"></a></li>                         </ul>                     </div>                 </div>             </div>         </div>     </footer>     <!--#page-footer-->",
+			"<ul class=\"widget-content list-style-1\">\n                                <li>\n                                    <article>\n                                        <a class=\"thumbnail pull-left\" href=\"#\" title=\"\">\n                                            <img src=\"placeholders/post-image/image-90-60-1.jpg\" height=\"60\" width=\"90\" alt=\"\">\n                                        </a>\n                                        <h4 class=\"content-title content-title-1\">\n                                            <a href=\"#\" title=\"\">As we have come to expect from the Porsche design department</a>\n                                        </h4>\n                                    </article>\n                                </li>\n\n                                <li>\n                                    <article>\n                                        <a class=\"thumbnail pull-left\" href=\"#\" title=\"\">\n                                            <img src=\"placeholders/post-image/image-90-60-1.jpg\" height=\"60\" width=\"90\" alt=\"\">\n                                        </a>\n                                        <h4 class=\"content-title content-title-1\">\n                                            <a href=\"#\" title=\"\">As we have come to expect from the Porsche design department</a>\n                                        </h4>\n                                    </article>\n                                </li>\n\n                                <li>\n                                    <article>\n                                        <a class=\"thumbnail pull-left\" href=\"#\" title=\"\">\n                                            <img src=\"placeholders/post-image/image-90-60-1.jpg\" height=\"60\" width=\"90\" alt=\"\">\n                                        </a>\n                                        <h4 class=\"content-title content-title-1\">\n                                            <a href=\"#\" title=\"\">As we have come to expect from the Porsche design department</a>\n                                        </h4>\n                                    </article>\n                                </li>\n\n                                <li>\n                                    <article>\n                                        <a class=\"thumbnail pull-left\" href=\"#\" title=\"\">\n                                            <img src=\"placeholders/post-image/image-90-60-1.jpg\" height=\"60\" width=\"90\" alt=\"\">\n                                        </a>\n                                        <h4 class=\"content-title content-title-1\">\n                                            <a href=\"#\" title=\"\">As we have come to expect from the Porsche design department</a>\n                                        </h4>\n                                    </article>\n                                </li>\n                            </ul>",
+			"placeholders/",
+			"<ul class=\"social-links pull-right\">\n                        <li><a class=\"fa fa-facebook\" href=\"#\"></a></li>\n                        <li><a class=\"fa fa-twitter\" href=\"#\"></a></li>\n                        <li><a class=\"fa fa-rss\" href=\"#\"></a></li>\n                        <li><a class=\"fa fa-skype\" href=\"#\"></a></li>\n                        <li><a class=\"fa fa-dribbble\" href=\"#\"></a></li>\n                        <li><a class=\"fa fa-youtube-square\" href=\"#\"></a></li>\n                        <li><a class=\"fa fa-tumblr\" href=\"#\"></a></li>\n                    </ul>"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"sp",
+			"sm",
+			"form-group",
+			"tuta",
+			"jQuery(",
+			"temp_path + '/js",
+			"<footer id=\"page-footer\">\n        <div class=\"top-footer\">\n            <div class=\"container\">\n                <div class=\"col-footer\">\n                    <h4 class=\"box-title-cate-1\"><a href=\"#\">Đẹp</a></h4>\n                    <ul>\n                        <li><a href=\"#\">Sức khỏe phụ nữ</a> </li>\n                        <li><a href=\"#\">Sức khỏe đàn ông</a> </li>\n                        <li><a href=\"#\">Sức khỏe giới tính</a> </li>\n                        <li><a href=\"#\">Bệnh xã hội</a> </li>\n                        <li><a href=\"#\">Nước hoa mỹ phẩm</a> </li>\n                    </ul>\n                </div>\n                <div class=\"col-footer\">\n                    <h4 class=\"box-title-cate-2\"><a href=\"#\">Sức khỏe</a></h4>\n                    <ul>\n                        <li><a href=\"#\">Sức khỏe phụ nữ</a> </li>\n                        <li><a href=\"#\">Sức khỏe đàn ông</a> </li>\n                        <li><a href=\"#\">Sức khỏe giới tính</a> </li>\n                        <li><a href=\"#\">Bệnh xã hội</a> </li>\n                        <li><a href=\"#\">Nước hoa mỹ phẩm</a> </li>\n                    </ul>\n                </div>\n                <div class=\"col-footer\">\n                    <h4 class=\"box-title-cate-3\"><a href=\"#\">Mẹ & bé</a></h4>\n                    <ul>\n                        <li><a href=\"#\">Sức khỏe phụ nữ</a> </li>\n                        <li><a href=\"#\">Sức khỏe đàn ông</a> </li>\n                        <li><a href=\"#\">Sức khỏe giới tính</a> </li>\n                        <li><a href=\"#\">Bệnh xã hội</a> </li>\n                        <li><a href=\"#\">Nước hoa mỹ phẩm</a> </li>\n                    </ul>\n                </div>\n                <div class=\"col-footer\">\n                    <h4 class=\"box-title-cate-4\"><a href=\"#\">Công nghệ</a></h4>\n                    <ul>\n                        <li><a href=\"#\">Sức khỏe phụ nữ</a> </li>\n                        <li><a href=\"#\">Sức khỏe đàn ông</a> </li>\n                        <li><a href=\"#\">Sức khỏe giới tính</a> </li>\n                        <li><a href=\"#\">Bệnh xã hội</a> </li>\n                        <li><a href=\"#\">Nước hoa mỹ phẩm</a> </li>\n                    </ul>\n                </div>\n                <div class=\"col-footer\">\n                    <h4 class=\"box-title-cate-5\"><a href=\"#\">Xe</a></h4>\n                    <ul>\n                        <li><a href=\"#\">Sức khỏe phụ nữ</a> </li>\n                        <li><a href=\"#\">Sức khỏe đàn ông</a> </li>\n                        <li><a href=\"#\">Sức khỏe giới tính</a> </li>\n                        <li><a href=\"#\">Bệnh xã hội</a> </li>\n                        <li><a href=\"#\">Nước hoa mỹ phẩm</a> </li>\n                    </ul>\n                </div>\n                <div class=\"col-footer\">\n                    <ul class=\"more-cate\">\n                        <li><a class=\"box-title-cate-10\" href=\"#\">Du lịch</a></li>\n                        <li><a class=\"box-title-cate-9\" href=\"#\">Pháp luật</a></li>\n                        <li><a class=\"box-title-cate-7\" href=\"#\">Tình cảm</a></li>\n                        <li><a class=\"box-title-cate-11\" href=\"#\">Kiếm tiền online</a></li>\n                        <li><a class=\"box-title-cate-12\" href=\"#\">Nhiếp ảnh</a></li>\n                    </ul>\n                </div>\n            </div>\n        </div>\n        <div class=\"footer container\">\n            <div class=\"row\">\n                <div class=\"col-5\">\n                    <a href=\"#\" class=\"logo\"></a>\n                    <p>© 2014 ADR Inc. All rights reserved.</p>\n                    <p><a href=\"#\">Privacy Policy  </a> <a href=\"#\">Terms of Use </a> <a href=\"#\">Mobile User Agreement</a> </p>\n                </div>\n                <div class=\"col-5 apps\">\n                    <h4>Adayroi Apps</h4>\n                    <a href=\"#\" class=\"android\">Android</a>\n                    <a href=\"#\" class=\"iPhone\">iPhone</a>\n                    <a href=\"#\" class=\"iPad\">iPad</a>\n                    <div class=\"input-group\">\n                        <input type=\"text\" class=\"form-control\" placeholder=\"Địa chỉ email\" aria-describedby=\"basic-addon2\">\n                        <span class=\"input-group-addon\" id=\"basic-addon2\">NHẬN BẢN TIN</span>\n                    </div>\n                </div>\n                <div class=\"col-5 solution\">\n                    <div class=\"icon-solution\">\n                        <h4>Follow Adayroi.net</h4>\n                        <ul>\n                            <li><a href=\"#\" class=\"face\"></a></li>\n                            <li><a href=\"#\" class=\"youtube\"></a></li>\n                            <li><a href=\"#\" class=\"tw\"></a></li>\n                            <li><a href=\"#\" class=\"google\"></a></li>\n                        </ul>\n                    </div>\n                </div>\n            </div>\n        </div>\n    </footer>\n    <!--#page-footer-->",
+			"<footer id=\"page-footer\">         <div class=\"top-footer\">             <div class=\"container\">                 <div class=\"col-footer\">                     <h4 class=\"box-title-cate-1\"><a href=\"#\">Đẹp</a></h4>                     <ul>                         <li><a href=\"#\">Sức khỏe phụ nữ</a> </li>                         <li><a href=\"#\">Sức khỏe đàn ông</a> </li>                         <li><a href=\"#\">Sức khỏe giới tính</a> </li>                         <li><a href=\"#\">Bệnh xã hội</a> </li>                         <li><a href=\"#\">Nước hoa mỹ phẩm</a> </li>                     </ul>                 </div>                 <div class=\"col-footer\">                     <h4 class=\"box-title-cate-2\"><a href=\"#\">Sức khỏe</a></h4>                     <ul>                         <li><a href=\"#\">Sức khỏe phụ nữ</a> </li>                         <li><a href=\"#\">Sức khỏe đàn ông</a> </li>                         <li><a href=\"#\">Sức khỏe giới tính</a> </li>                         <li><a href=\"#\">Bệnh xã hội</a> </li>                         <li><a href=\"#\">Nước hoa mỹ phẩm</a> </li>                     </ul>                 </div>                 <div class=\"col-footer\">                     <h4 class=\"box-title-cate-3\"><a href=\"#\">Mẹ & bé</a></h4>                     <ul>                         <li><a href=\"#\">Sức khỏe phụ nữ</a> </li>                         <li><a href=\"#\">Sức khỏe đàn ông</a> </li>                         <li><a href=\"#\">Sức khỏe giới tính</a> </li>                         <li><a href=\"#\">Bệnh xã hội</a> </li>                         <li><a href=\"#\">Nước hoa mỹ phẩm</a> </li>                     </ul>                 </div>                 <div class=\"col-footer\">                     <h4 class=\"box-title-cate-4\"><a href=\"#\">Công nghệ</a></h4>                     <ul>                         <li><a href=\"#\">Sức khỏe phụ nữ</a> </li>                         <li><a href=\"#\">Sức khỏe đàn ông</a> </li>                         <li><a href=\"#\">Sức khỏe giới tính</a> </li>                         <li><a href=\"#\">Bệnh xã hội</a> </li>                         <li><a href=\"#\">Nước hoa mỹ phẩm</a> </li>                     </ul>                 </div>                 <div class=\"col-footer\">                     <h4 class=\"box-title-cate-5\"><a href=\"#\">Xe</a></h4>                     <ul>                         <li><a href=\"#\">Sức khỏe phụ nữ</a> </li>                         <li><a href=\"#\">Sức khỏe đàn ông</a> </li>                         <li><a href=\"#\">Sức khỏe giới tính</a> </li>                         <li><a href=\"#\">Bệnh xã hội</a> </li>                         <li><a href=\"#\">Nước hoa mỹ phẩm</a> </li>                     </ul>                 </div>                 <div class=\"col-footer\">                     <ul class=\"more-cate\">                         <li><a class=\"box-title-cate-10\" href=\"#\">Du lịch</a></li>                         <li><a class=\"box-title-cate-9\" href=\"#\">Pháp luật</a></li>                         <li><a class=\"box-title-cate-7\" href=\"#\">Tình cảm</a></li>                         <li><a class=\"box-title-cate-11\" href=\"#\">Kiếm tiền online</a></li>                         <li><a class=\"box-title-cate-12\" href=\"#\">Nhiếp ảnh</a></li>                     </ul>                 </div>             </div>         </div>         <div class=\"footer container\">             <div class=\"row\">                 <div class=\"col-5\">                     <a href=\"#\" class=\"logo\"></a>                     <p>© 2014 ADR Inc. All rights reserved.</p>                     <p><a href=\"#\">Privacy Policy  </a> <a href=\"#\">Terms of Use </a> <a href=\"#\">Mobile User Agreement</a> </p>                 </div>                 <div class=\"col-5 apps\">                     <h4>Adayroi Apps</h4>                     <a href=\"#\" class=\"android\">Android</a>                     <a href=\"#\" class=\"iPhone\">iPhone</a>                     <a href=\"#\" class=\"iPad\">iPad</a>                     <div class=\"input-group\">                         <input type=\"text\" class=\"form-control\" placeholder=\"Địa chỉ email\" aria-describedby=\"basic-addon2\">                         <span class=\"input-group-addon\" id=\"basic-addon2\">NHẬN BẢN TIN</span>                     </div>                 </div>                 <div class=\"col-5 solution\">                     <div class=\"icon-solution\">                         <h4>Follow Adayroi.net</h4>                         <ul>                             <li><a href=\"#\" class=\"face\"></a></li>                             <li><a href=\"#\" class=\"youtube\"></a></li>                             <li><a href=\"#\" class=\"tw\"></a></li>                             <li><a href=\"#\" class=\"google\"></a></li>                         </ul>                     </div>                 </div>             </div>         </div>     </footer>     <!--#page-footer-->",
+			"box",
+			"<ul class=\"widget-content list-style-1\">\n                                <li>\n                                    <article>\n                                        <a class=\"thumbnail pull-left\" href=\"#\" title=\"\">\n                                            <img src=\"http://placehold.it/90x60\" height=\"60\" width=\"90\" alt=\"\">\n                                        </a>\n                                        <h4 class=\"content-title content-title-1\">\n                                            <a href=\"#\" title=\"\">As we have come to expect from the Porsche design department</a>\n                                        </h4>\n                                    </article>\n                                </li>\n\n                                <li>\n                                    <article>\n                                        <a class=\"thumbnail pull-left\" href=\"#\" title=\"\">\n                                            <img src=\"http://placehold.it/90x60\" height=\"60\" width=\"90\" alt=\"\">\n                                        </a>\n                                        <h4 class=\"content-title content-title-1\">\n                                            <a href=\"#\" title=\"\">As we have come to expect from the Porsche design department</a>\n                                        </h4>\n                                    </article>\n                                </li>\n\n                                <li>\n                                    <article>\n                                        <a class=\"thumbnail pull-left\" href=\"#\" title=\"\">\n                                            <img src=\"http://placehold.it/90x60\" height=\"60\" width=\"90\" alt=\"\">\n                                        </a>\n                                        <h4 class=\"content-title content-title-1\">\n                                            <a href=\"#\" title=\"\">As we have come to expect from the Porsche design department</a>\n                                        </h4>\n                                    </article>\n                                </li>\n\n                                <li>\n                                    <article>\n                                        <a class=\"thumbnail pull-left\" href=\"#\" title=\"\">\n                                            <img src=\"http://placehold.it/90x60\" height=\"60\" width=\"90\" alt=\"\">\n                                        </a>\n                                        <h4 class=\"content-title content-title-1\">\n                                            <a href=\"#\" title=\"\">As we have come to expect from the Porsche design department</a>\n                                        </h4>\n                                    </article>\n                                </li>\n                            </ul>",
+			"<div class=\"on-shoping-box row\">\n                        <div class=\"col-md-9\">\n                            <div class=\"item fa fa-truck\">\n                                <p class=\"h6\">Free Ship</p>\n                                <p>on order over $75.00</p>\n                            </div>\n                            <div class=\"item fa fa-rotate-right\">\n                                <p class=\"h6\">Free Return</p>\n                                <p>free 90 days return policy</p>\n                            </div>\n                            <div class=\"item fa fa-money\">\n                                <p class=\"h6\">Member discount</p>\n                                <p>free register</p>\n                            </div>\n                        </div>\n                        <div class=\"col-md-3\">\n                            <div class=\"item shopping-cart fa fa-shopping-cart \">\n                                <p class=\"h6\">Shopping Cart</p>\n                                <p><span>0 item</span> - <span>$ 0.00</span></p>\n                            </div>\n                            <!--.shopping-cart-->\n                        </div>\n                    </div>\n                    <!--.on-shoping-box-->"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "header.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2262,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								978,
+								978
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai (SL).tmTheme",
+							"dfw_side_bar_vis": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 208.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "footer.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 403,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								170,
+								170
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai (SL).tmTheme",
+							"dfw_side_bar_vis": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "functions.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 371,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								161,
+								161
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai (SL).tmTheme",
+							"dfw_side_bar_vis": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "page.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai (SL).tmTheme",
+							"dfw_side_bar_vis": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 100.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 624.0
+	},
+	"pinned_build_system": "",
+	"project": "learningwp.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"funct",
+				"functions.php"
+			],
+			[
+				"footer",
+				"footer.php"
+			],
+			[
+				"function",
+				"functions.php"
+			],
+			[
+				"mixin",
+				"html\\scss\\components\\_mixin.scss"
+			],
+			[
+				"custom",
+				"html\\js\\custom.js"
+			],
+			[
+				"head",
+				"html\\scss\\components\\_header_page.scss"
+			],
+			[
+				"style",
+				"html\\scss\\style.scss"
+			],
+			[
+				"main",
+				"html\\scss\\components\\_main_page.scss"
+			],
+			[
+				"icons",
+				"html\\scss\\components\\_icons.scss"
+			],
+			[
+				"varia",
+				"scss\\_variables.scss"
+			],
+			[
+				"fun",
+				"functions.php"
+			],
+			[
+				"header",
+				"header.php"
+			],
+			[
+				"page",
+				"page.php"
+			],
+			[
+				"full",
+				"templates\\full-width.php"
+			],
+			[
+				"button",
+				"scss\\shortcodes\\_buttons.scss"
+			],
+			[
+				"mix",
+				"scss\\_mixin.scss"
+			],
+			[
+				"func",
+				"functions.php"
+			],
+			[
+				"cus",
+				"js\\custom.js"
+			],
+			[
+				"contact",
+				"templates\\contact.php"
+			],
+			[
+				"testimonial-1-widget",
+				"scss\\widgets\\_testimonial-1-widget.scss"
+			],
+			[
+				"widget",
+				"css\\widgets\\_widget-default.css"
+			],
+			[
+				"mp-post-widget",
+				"scss\\widgets\\_mp-post-widget.scss"
+			],
+			[
+				"vendor",
+				"scss\\_vendor.scss"
+			],
+			[
+				"404",
+				"scss\\pages\\_404-page.scss"
+			],
+			[
+				"ie",
+				"scss\\ie.scss"
+			],
+			[
+				"sty",
+				"style.scss"
+			],
+			[
+				"index",
+				"index.php"
+			],
+			[
+				"functi",
+				"functions.php"
+			],
+			[
+				"sing",
+				"single.php"
+			],
+			[
+				"va",
+				"scss\\_variables.scss"
+			],
+			[
+				"blog-category-widget",
+				"scss\\widgets\\_blog-category-widget.scss"
+			],
+			[
+				"ar",
+				"archive.php"
+			],
+			[
+				"catego",
+				"scss\\widgets\\_blog-category-widget.scss"
+			],
+			[
+				"comment",
+				"scss\\components\\_comment-list.scss"
+			],
+			[
+				"author",
+				"scss\\components\\_author-box.scss"
+			],
+			[
+				"vari",
+				"scss\\_variables.scss"
+			],
+			[
+				"content",
+				"content.php"
+			],
+			[
+				"inde",
+				"index.php"
+			],
+			[
+				"plog",
+				"scss\\pages\\_blog.scss"
+			],
+			[
+				"compo",
+				"scss\\_components.scss"
+			],
+			[
+				"elem",
+				"scss\\_elements.scss"
+			],
+			[
+				"short",
+				"scss\\_shortcodes.scss"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"D:\\Work\\projects\\wordpress\\wp-learning\\wp-content\\themes\\learningwp\\learningwp.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 172.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

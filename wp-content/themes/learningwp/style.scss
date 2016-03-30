@@ -1,0 +1,187 @@
+/*
+ Theme Name: Learning WordPress
+ Author: TuTa
+ Author URI: http://www.tuta.com
+ Version: 1.0
+ */
+
+body {
+  font-family: Arial; font-size: 14px; color: #333;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+#main-page {
+  margin-bottom: 40px;
+}
+
+/**
+ * Header
+ */
+
+.site-header {
+  margin-bottom: 20px;
+  padding: 20px 0;
+  h1,
+  .logo {
+    font-size: 40px;
+    font-weight: 700;
+    a {
+      text-decoration: none;
+      color: #333;
+    }
+  }
+  h5 {
+    font-size: 90%;
+  }
+
+  .hd-search {
+    float: right;
+    margin-top: 7px;
+  }
+
+  .navbar {
+    margin-top: 20px;
+  }
+}
+
+// nav
+.navbar {
+  padding: 0;
+  li {
+    float: left;
+    a {
+      display: inline-block;
+      padding: 10px 20px;
+      text-decoration: none;
+      color: #333;
+      font-weight: bold;
+      &:hover {
+        background-color: #ddd;
+      }
+    }
+  }
+}
+
+// post
+.post-container {
+  background-color: #eee; border-radius: 4px; margin-bottom: 20px;
+  padding: 20px;
+}
+
+// info box
+.info-box {
+  width: 500px; padding: 15px; background-color: #f6f7f8;
+  &.pull-md-right {
+    margin-left: 20px; margin-bottom: 20px;
+  }
+}
+
+// footer page
+.site-footer {
+  padding-top: 40px; border-top: 1px solid #ddd;
+}
+
+// footer nav
+.footer-nav {
+  ul {
+    overflow: hidden; padding: 0; margin: 0;
+  }
+  li {
+    float: left; list-style: none; margin-right: 20px;
+    a {
+      //padding: 5px 20px;
+    }
+  }
+}
+
+// children links
+.children-links {
+  font-size: 80%; margin-bottom: 20px;
+  .parent-link {
+    margin-right: 10px; line-height: 1.8;
+    &:after {
+      content: '|'; margin-left: 10px;
+    }
+  }
+  ul {
+    display: inline-block; margin-bottom: 0; line-height: 1.8;
+    li {
+      display: inline; margin-right: 20px;
+    }
+  }
+}
+
+/**
+ * Post
+ */
+
+.post {
+  min-height: 140px;
+  & + .post {
+    border-top: 2px dashed #ddd; margin-top: 20px; padding-top: 20px;
+  }
+  h2,
+  .post-title {
+    font-size: 28px; border-left: 5px solid #ddd; padding-left: 10px;
+  }
+  .post-info {
+    font-size: 90%; color: #999;
+  }
+}
+
+.has-post-thumbnail {
+  position: relative;
+  padding-left: 200px;
+  .post-thumbnail {
+    position: absolute;
+    top: 20px;
+    left: 0;
+  }
+  &:first-of-type { // post first - no padding-top
+    min-height: 120px;
+    .post-thumbnail {
+      top: 0;
+    }
+  }
+}
+
+.single {
+  .has-post-thumbnail {
+    padding-left: 0;
+  }
+  .post-title {
+    font-size: 36px;
+  }
+  .post-thumbnail {
+    position: static;
+    margin-bottom: 20px;
+  }
+}
+
+.search-query {
+  margin-bottom: 2em;
+  font-size: 1em;
+  color: #666;
+  span {
+    font-weight: 700;
+    color: #333;
+    &:before {
+      content: '"';
+      color: #666;
+    }
+    &:after {
+      content: '"';
+      color: #666;
+    }
+  }
+}
+
+.archive-title {
+  margin-bottom: 40px;
+  font-size: 32px;
+  line-height: 1.4;
+}
